@@ -4,7 +4,7 @@ A warm, editorial task management application designed to help you plan your day
 
 Built with **Next.js 16**, **React 19**, **TypeScript**, and **Supabase** (PostgreSQL).
 
-![Taskmaster Screenshot](public/images/taskmaster.png)
+![Taskmaster Screenshot](public/images/Taskmaster.png)
 
 ---
 

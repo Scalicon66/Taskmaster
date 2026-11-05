@@ -1,0 +1,4 @@
+# GitHub Linguist language overrides
+# Exclude build scripts and config files from language statistics
+eslint.config.js linguist-vendored
+*.sql linguist-detectable=false

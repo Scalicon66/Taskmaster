@@ -1,5 +1,4 @@
 # GitHub Linguist language overrides
-# Exclude styling and config files so GitHub reflects TypeScript as 100%
-*.css linguist-detectable=false
+# Exclude build config files from language statistics
 eslint.config.js linguist-vendored
 *.sql linguist-detectable=false
